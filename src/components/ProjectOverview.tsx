@@ -8,7 +8,7 @@ const ProjectOverview = () => {
           <div className="relative">
             <div className="aspect-w-16 aspect-h-12 rounded-2xl overflow-hidden shadow-2xl">
               <img 
-                src="https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" 
+                src="/images/basecamp.JPG" 
                 alt="Smart Farm Technology" 
                 className="w-full h-full object-cover"
               />

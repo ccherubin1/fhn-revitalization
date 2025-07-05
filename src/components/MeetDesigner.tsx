@@ -6,7 +6,7 @@ const MeetDesigner = () => {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-[#40a63a] mb-6">
-              Meet the Designer
+              Meet the Designers
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-[#58e551] to-[#2196F3] mx-auto rounded-full"></div>
           </div>

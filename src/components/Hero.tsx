@@ -52,7 +52,7 @@ const Hero = () => {
             href="#about" 
             className="border-2 border-[#2196F3] text-[#2196F3] hover:bg-[#2196F3] hover:text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300"
           >
-            Meet the Designer
+            Meet the Designers
           </a>
         </div>
 
